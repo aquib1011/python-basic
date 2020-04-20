@@ -1,0 +1,52 @@
+Hi! Welcome to the Phone Book.
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 1
+Enter name of contact : Priyanshul
+Phone number of contact : 9267910872
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 1
+Enter name of contact : Puneet
+Phone number of contact : 7445908375
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 3
+Enter name of contact : Priyanshul
+Phone number of Priyanshul is 9267910872
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 2
+Enter name of contact : Priyanshul
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 3
+Enter name of contact : Priyanshul
+Sorry, that name does not exist in the phone book!
+
+1.   Add phone number.
+2.   Remove phone number.
+3.   Search phone number.
+4.   Exit
+
+Please press your choice number : 4

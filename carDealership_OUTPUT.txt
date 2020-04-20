@@ -1,0 +1,94 @@
+Welcome to THE CAR SELLERS!
+
+*********** BILLING ***********        
+
+1 .      Jeep Compass    20,00,000  INR
+2 .      Hyundai Creta   17,50,000  INR
+3 .      Ford Ecosport   14,00,000  INR
+
+Enter S.No. of Car : 1
+
+Enter customer' s name : Priyanshul Govil
+Enter customer' s contact no. : 9267910765
+Enter customer' s email ID : priyanshul.govil@gmail.com
+Enter customer' s DL no. : 7654 1254 3341 
+
+**************************************************
+
+Car :  Jeep Compass
+Amount : 20,00,000 INR
+
+1. CASH
+2. CARD
+3. CHEQUE
+
+Enter payment method : 1
+
+Mode of Payment : CASH
+Amount received = 20,00,000 INR
+
+******** TRANSACTION APPROVED ********
+
+Name : Priyanshul Govil
+Contact Number : 9267910765
+E-Mail ID : priyanshul.govil@gmail.com
+License Nubmer : 7654 1254 3341
+Car Purchased : Jeep Compass
+
+Thank You for purchasing!
+
+*********** BILLING ***********
+
+1 .      Jeep Compass    20,00,000  INR
+2 .      Hyundai Creta   17,50,000  INR
+3 .      Ford Ecosport   14,00,000  INR
+
+Enter S.No. of Car : 3
+
+Enter customer' s name : Puneet Jaisinghani
+Enter customer' s contact no. : 7442657009        
+Enter customer' s email ID : puneet12@hotmail.com
+Enter customer' s DL no. : 5433 8674 4493
+
+**************************************************
+
+Car :  Ford Ecosport
+Amount : 14,00,000 INR
+
+1. CASH
+2. CARD
+3. CHEQUE
+
+Enter payment method : 3
+
+Mode of Payment : CHEQUE
+Enter cheque number of received cheque : AB54F342Q
+
+******** TRANSACTION APPROVED ********
+
+Name : Puneet Jaisinghani
+Contact Number : 7442657009
+E-Mail ID : puneet12@hotmail.com
+License Nubmer : 5433 8674 4493
+Car Purchased : Ford Ecosport
+
+Thank You for purchasing!
+
+**************************************************
+
+Details of all transactions till now are :-
+
+Name : Priyanshul Govil
+Contact Number : 9267910765
+E-Mail ID : priyanshul.govil@gmail.com
+License Nubmer : 7654 1254 3341
+Car Purchased : Jeep Compass
+
+Name : Puneet Jaisinghani
+Contact Number : 7442657009
+E-Mail ID : puneet12@hotmail.com
+License Nubmer : 5433 8674 4493
+Car Purchased : Ford Ecosport
+
+
+**************************************************

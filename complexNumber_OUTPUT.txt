@@ -1,0 +1,8 @@
+Complex numbers are in the form of x + yi
+Enter x and y for 1st complex number (separated by space) : 3 5
+Enter x and y for 2nd complex number (separated by space) : 7 2
+Conjugate of (7.0 + 2.0i) is (7.0 - 2.0i)
+(3.0 + 5.0i) + (7.0 - 2.0i) = (10.0 + 3.0i)
+(10.0 + 3.0i) - (7.0 - 2.0i) = (3.0 + 5.0i)
+(3.0 + 5.0i) x (7.0 - 2.0i) = (31.0 + 29.0i)
+(31.0 + 29.0i) / (7.0 - 2.0i) = (3.0 + 5.0i)
